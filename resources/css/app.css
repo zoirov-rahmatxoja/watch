@@ -1,0 +1,12 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+/* @import "assets/all.min.css"; */
+@import "assets/animate.css";
+@import "assets/bootstrap.min.css";
+@import '~@fortawesome/fontawesome-free/css/all.min.css';
+/* @import "assets/LineIcons"; */
+@import "assets/main.css";
+@import "assets/owl.carousel.min.css";
+@import "assets/responsive.css";
+@import "assets/style.css";

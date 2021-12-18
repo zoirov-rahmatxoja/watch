@@ -1,0 +1,10 @@
+<script src="assets/js/jquery-1.12.4.min.js"></script>
+    <script src="assets/js/modernizr-3.5.0.min.js"></script>
+    <script src="assets/js/popper.min.js"></script>
+    <script src="assets/js/bootstrap.min.js"></script>
+    <script src="assets/js/jquery.nav.js"></script>
+    <script src="assets/js/wow.min.js"></script>
+    <script src="assets/js/owl.carousel.min.js"></script>
+    <script src="assets/js/jquery.magnific-popup.min.js"></script>
+    <script src="assets/js/ajax-contact-form.js"></script>
+    <script src="assets/js/main.js"></script>
